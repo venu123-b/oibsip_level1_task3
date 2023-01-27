@@ -1,0 +1,12 @@
+.div{
+  background-color: pink;
+  padding: 60px;
+  position: fixed; /*
+  or absolute */
+ top: 40%;
+ left: 40%;
+}
+#myText{
+  background-color: skyblue;
+
+}
